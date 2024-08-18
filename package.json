@@ -17,7 +17,7 @@
 		"@sveltejs/kit": "^2.5.22",
 		"@sveltejs/vite-plugin-svelte": "^3.1.1",
 		"@types/color": "^3.0.6",
-		"@versatiles/svelte": "^0.0.3",
+		"@versatiles/svelte": "^0.0.4",
 		"color": "^4.2.3",
 		"eslint": "^9.9.0",
 		"eslint-config-prettier": "^9.1.0",
